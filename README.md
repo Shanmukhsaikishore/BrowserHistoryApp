@@ -1,3 +1,6 @@
+### URL
+<a>https://shanmukhhistory.ccbp.tech/</a>
+
 In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -28,8 +31,7 @@ In this project, let's build a **Browser History** app by applying the concepts 
 - Start up the app using `npm start`
 </details>
 
-###URL
-<a>https://shanmukhhistory.ccbp.tech/</a>
+
 
 
 
