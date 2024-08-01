@@ -3,7 +3,7 @@
 
 In this project, let's build a **Browser History** app 
 
-### Refer to the image below:
+
 
 <br/>
 <div style="text-align: center;">
