@@ -1,7 +1,7 @@
 ### URL
 <a>https://shanmukhhistory.ccbp.tech/</a>
 
-In this project, let's build a **Browser History** app 
+Project Name: **Browser History** app 
 
 
 
